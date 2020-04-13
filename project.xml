@@ -1,7 +1,7 @@
 <?xml version="1.0"?> 
 <launcher> 
     <update> 
-        <version>2.0.0.0</version> 
+        <version>3.0.0.0</version> 
         <url>https://raw.githubusercontent.com/khoerulageng/updatetest/master/Launcher.exe</url> 
         <filePath>./Launcher.exe</filePath>
         <md5>a187a545bed9d477ebb6cd2e6dde5154</md5>
