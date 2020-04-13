@@ -1,5 +1,5 @@
 <?xml version="1.0"?> 
-<sharpUpdate> 
+<launcher> 
     <update> 
         <version>2.0.0.0</version> 
         <url>https://raw.githubusercontent.com/khoerulageng/updatetest/master/Launcher.exe</url> 
@@ -9,4 +9,4 @@
         1. Updated a launcer.</description> 
         <launchArgs></launchArgs> 
     </update>
-</sharpUpdate>
+</launcher>
