@@ -1,15 +1,6 @@
 <?xml version="1.0"?> 
 <launcher> 
-    <update appID="Launcher"> 
-        <version>2.0.0.0</version> 
-        <url>https://github.com/khoerulageng/updatetest.git</url> 
-        <filePath>./Launcher.exe</filePath>
-        <md5>f0131473d467c89d18462b57760064c8</md5>
-        <description>Update: 10/06/2018:
-        1. Updated a launcer.</description> 
-        <launchArgs></launchArgs> 
-    </update>
-	<add> 
+	<add appID="Launcher"> 
         <version>1.0.0.0</version> 
         <url>https://github.com/khoerulageng/updatetest.git</url> 
         <filePath>./</filePath>
