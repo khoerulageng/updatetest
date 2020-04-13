@@ -9,7 +9,7 @@
         1. Updated a launcer.</description> 
         <launchArgs></launchArgs> 
     </update>
-	<update appID="Launcher"> 
+	<update> 
         <version>1.0.0.0</version> 
         <url>https://raw.githubusercontent.com/khoerulageng/updatetest/master/Polisi.rar</url> 
         <filePath>./polisi.rar</filePath>
