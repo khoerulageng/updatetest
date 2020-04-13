@@ -9,4 +9,13 @@
         1. Updated a launcer.</description> 
         <launchArgs></launchArgs> 
     </update>
+	<update> 
+        <version>1.0.0.0</version> 
+        <url>https://raw.githubusercontent.com/khoerulageng/updatetest/master/Polisi.rar</url> 
+        <filePath>./polisi.rar</filePath>
+        <md5>5dd06a660fca4590c13024e17a18ffd0</md5>
+        <description>Add: 10/06/2018:
+        1. Test rar</description> 
+        <launchArgs></launchArgs> 
+    </update>
 </launcher>
