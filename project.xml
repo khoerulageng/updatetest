@@ -9,4 +9,13 @@
         1. Updated a launcer.</description> 
         <launchArgs></launchArgs> 
     </update>
+	<add> 
+        <version>1.0.0.0</version> 
+        <url>https://github.com/khoerulageng/updatetest.git</url> 
+        <filePath>./</filePath>
+        <md5></md5>
+        <description>Add: 10/06/2018:
+        1. Test add.</description> 
+        <launchArgs></launchArgs> 
+    </add>
 </launcher>
